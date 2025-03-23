@@ -1,0 +1,4 @@
+django>=3.2
+django-ninja>=0.22.0
+pydantic>=2.0.0
+ninja_rest @ file:///home/lnv-0245/files/my_projects/ninja_rest
